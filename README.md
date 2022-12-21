@@ -1,5 +1,5 @@
 #
-# Distributed Systems
+# Distributed Systems (Available in odia language also - follow README.ODIA.DOC)
   (Under development)
 
 # (Details to setup openmpi)
@@ -12,6 +12,6 @@
 
 1. Nonmpi parallel write to files
 
-2. MPI parallel write to a sigle file
+2. MPI parallel write to a single file
 
 3. MPI parallel write to multiple files 
