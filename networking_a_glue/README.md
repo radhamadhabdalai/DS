@@ -12,3 +12,8 @@
 
 1. Server socket
 2. Client socket
+
+
+
+Copyright (c) 2009 Radhamadhab Dalai, Karnataka India
+Author's email address :  dalai115@gmail.com

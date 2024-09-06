@@ -1,0 +1,98 @@
+{
+	"compiler": {
+		"version": "0.5.0+commit.1d4f565a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"constant": false,
+				"inputs": [
+					{
+						"name": "_content",
+						"type": "string"
+					}
+				],
+				"name": "createTask",
+				"outputs": [],
+				"payable": false,
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"constant": true,
+				"inputs": [
+					{
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"name": "tasks",
+				"outputs": [
+					{
+						"name": "id",
+						"type": "uint256"
+					},
+					{
+						"name": "content",
+						"type": "string"
+					},
+					{
+						"name": "completed",
+						"type": "bool"
+					}
+				],
+				"payable": false,
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"constant": true,
+				"inputs": [],
+				"name": "taskCount",
+				"outputs": [
+					{
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"payable": false,
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"payable": false,
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			}
+		],
+		"devdoc": {
+			"methods": {}
+		},
+		"userdoc": {
+			"methods": {}
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"book/FIntech_banking/impl/etheriusm_setup/eth-proj/contracts/TodoList.sol": "TodoList"
+		},
+		"evmVersion": "byzantium",
+		"libraries": {},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"book/FIntech_banking/impl/etheriusm_setup/eth-proj/contracts/TodoList.sol": {
+			"keccak256": "0xade5356c3c66d0e5f6f7496068b516b06263bc42af035cabf036b35e2b1f2fed",
+			"urls": [
+				"bzzr://bac6430ae5c5539b5c968d816d3b34e58ef3f6cf4e38e1fa994b13fc1fee1840"
+			]
+		}
+	},
+	"version": 1
+}

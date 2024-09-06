@@ -1,0 +1,9 @@
+truffle console
+
+truffle(development)> todoList = await TodoList.deployed()
+truffle(development)>
+truffle(development)> todoList.address
+truffle(development)>todoList = await TodoList.tasks(1)
+truffle(development)>
+truffle(development)> task
+task.id.toNumber()
