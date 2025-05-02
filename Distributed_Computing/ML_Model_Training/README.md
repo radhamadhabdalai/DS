@@ -9,7 +9,7 @@
 
 ## details of programs 
 
-## Ray Framework - 
+## 1. Ray Framework - 
 
 1. Refer to the blogs in blogs folder.
   1. Distributed Training with PyTorch on Ray - Rafay Product Documentation
@@ -17,3 +17,9 @@
   3. Guide to Ray for Scalable AI and Machine Learning Applications
 
 2. Refer to the setup.pdf in this folder 
+
+## 2. Parameter Server
+
+## 3. Tensorflow Mesh
+
+## 4. Tensorflow Mesh with Neptune.ai
